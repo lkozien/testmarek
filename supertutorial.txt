@@ -1,0 +1,2 @@
+git clone -> pobierasz do siebie na komputr
+git fork -> kopia
