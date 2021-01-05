@@ -1,2 +1,5 @@
 git clone -> pobierasz do siebie na komputr
 git fork -> kopia
+
+  git config --global user.email "l.kozien@wp.pl"
+  git config --global user.name "lkozien"
